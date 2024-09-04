@@ -22,7 +22,7 @@ Goal of this project is to deploy scalable, highly available and secured Java ap
 ## Pre-Requisites
 
 1. Create AWS Free Tier account
-2. Create GitHub account and create repository to keep this Java [Source Code](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Java-Login-App)
+2. Create GitHub account and create repository to keep this Java source code
 3. Migrate Java Source Code to your own GitHub repository
 4. Create account in Sonarcloud.
 5. Create account in Jfrog cloud.
